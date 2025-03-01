@@ -4,9 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: >-
-    /images/Afbeelding van WhatsApp op 2025-02-28 om 20.46.42_08be753e (1)
-    (1).jpg
+  url: /images/Afbeelding van WhatsApp op 2025-02-28 om 20.46.42_f3a881a2.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
