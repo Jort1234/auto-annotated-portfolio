@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: Jort van dam
+    title: Jort
     subtitle: Hoi
     styles:
       self:
