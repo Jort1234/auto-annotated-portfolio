@@ -2,9 +2,7 @@
 type: PostLayout
 title: Vliegtuigongeluk Zuid-Korea
 date: '2025-03-06'
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerpt: Een aanvliegroute en beschermd vogel gebied gaan vast goed samen.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
