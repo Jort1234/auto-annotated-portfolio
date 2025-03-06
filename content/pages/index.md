@@ -54,6 +54,7 @@ sections:
         url: /blog
     posts:
       - content/pages/blog/130.md
+      - content/pages/blog/Vliegtuigongeluk-in-Zuid-Korea.md
     showDate: true
     showExcerpt: true
     showReadMoreLink: true
