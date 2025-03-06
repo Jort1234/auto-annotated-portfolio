@@ -49,7 +49,7 @@ sections:
       - type: ImageBlock
         url: /images/Afbeelding van WhatsApp op 2025-02-28 om 20.46.42_f3a881a2.jpg
         altText: licht en geluid
-        caption: Image one caption
+        caption: Licht en Geluid
         elementId: ''
       - type: ImageBlock
         url: /images/theater.webp
