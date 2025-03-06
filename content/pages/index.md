@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Jort van dam
-    subtitle: Hoi
+    subtitle: Luchtvaart / Podiumtechniek
     styles:
       self:
         height: auto
