@@ -86,6 +86,6 @@ sections:
     title: Columns
 metaTags:
   - type: MetaTag
-    property: 'og:title'
+    property: 'og:image'
     content: ''
 ---
