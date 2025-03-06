@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Er ging veel mis..
+title: Vliegtuigongeluk Zuid-Korea
 date: '2025-03-06'
 excerpt: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
