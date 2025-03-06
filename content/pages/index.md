@@ -84,8 +84,5 @@ sections:
       actions:
         justifyContent: flex-end
     title: Columns
-metaTags:
-  - type: MetaTag
-    property: 'og:image'
-    content: ''
+metaTags: []
 ---
