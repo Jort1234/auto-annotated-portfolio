@@ -84,6 +84,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
+    title: Columns
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
