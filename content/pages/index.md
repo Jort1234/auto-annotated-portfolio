@@ -60,7 +60,7 @@ sections:
         url: >-
           /images/Afbeelding van WhatsApp op 2025-02-28 om 20.46.42_08be753e (1)
           (1).jpg
-        altText: Image three
+        altText: Licht en Geluid
         caption: Image three caption
         elementId: ''
       - type: ImageBlock
