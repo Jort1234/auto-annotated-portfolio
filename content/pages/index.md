@@ -57,7 +57,9 @@ sections:
         caption: Image two caption
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-3.jpg
+        url: >-
+          /images/Afbeelding van WhatsApp op 2025-02-28 om 20.46.42_08be753e (1)
+          (1).jpg
         altText: Image three
         caption: Image three caption
         elementId: ''
