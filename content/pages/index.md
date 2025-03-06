@@ -48,7 +48,7 @@ sections:
     images:
       - type: ImageBlock
         url: /images/Afbeelding van WhatsApp op 2025-02-28 om 20.46.42_f3a881a2.jpg
-        altText: Image one
+        altText: licht en geluid
         caption: Image one caption
         elementId: ''
       - type: ImageBlock
