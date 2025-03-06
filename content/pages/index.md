@@ -43,7 +43,7 @@ sections:
     type: HeroSection
     actions: []
   - type: RecentProjectsSection
-    subtitle: Projects
+    subtitle: Wat ik zowel doe
     actions:
       - type: Link
         label: See all projects
