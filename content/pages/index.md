@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/featured-Image6.jpg
+  url: /images/theater.webp
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
