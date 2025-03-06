@@ -4,8 +4,7 @@ title: 'Licht en Geluid, Bonhoeffer College.'
 colors: colors-a
 date: '2022-01-22'
 client: Awesome client
-description: >-
-  blajdfojoefwjdjfoisjfewoifjwojeofijweoifjoiwejfoijewifjwoiefjoiwejfiwjeofjwoiefjweofiwjeifjwoiejfoijweifjweoifjweofijweoifjewfojweiofjweoifjoiewjf
+description: Leuk projectje
 featuredImage:
   type: ImageBlock
   url: >-
