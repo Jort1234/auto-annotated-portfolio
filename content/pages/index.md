@@ -54,7 +54,7 @@ sections:
       - type: ImageBlock
         url: /images/theater.webp
         altText: licht en geluid
-        caption: Image two caption
+        caption: Licht en Geluid
         elementId: ''
       - type: ImageBlock
         url: >-
