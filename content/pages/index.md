@@ -53,7 +53,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/theater.webp
-        altText: Image two
+        altText: licht en geluid
         caption: Image two caption
         elementId: ''
       - type: ImageBlock
