@@ -42,6 +42,53 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+  - type: MediaGallerySection
+    title: Gallery
+    subtitle: This is the subtitle
+    images:
+      - type: ImageBlock
+        url: /images/Afbeelding van WhatsApp op 2025-02-28 om 20.46.42_f3a881a2.jpg
+        altText: licht en geluid
+        caption: Licht en Geluid
+        elementId: ''
+      - type: ImageBlock
+        url: /images/theater.webp
+        altText: licht en geluid
+        caption: Licht en Geluid
+        elementId: ''
+      - type: ImageBlock
+        url: >-
+          /images/Afbeelding van WhatsApp op 2025-02-28 om 20.46.42_08be753e (1)
+          (1).jpg
+        altText: Licht en Geluid
+        caption: Het ophangen van lampen
+        elementId: ''
+      - type: ImageBlock
+        url: /images/bg1.jpg
+        altText: Image four
+        caption: Image four caption
+        elementId: ''
+    colors: colors-f
+    spacing: 16
+    columns: 4
+    aspectRatio: '4:3'
+    showCaption: false
+    enableHover: true
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: full
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
