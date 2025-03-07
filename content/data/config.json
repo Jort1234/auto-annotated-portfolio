@@ -48,8 +48,8 @@
             },
             {
                 "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
+                "label": "columns",
+                "url": "/columns",
                 "altText": ""
             }
         ],
