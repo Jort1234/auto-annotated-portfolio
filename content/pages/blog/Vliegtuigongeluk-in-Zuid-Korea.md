@@ -5,7 +5,7 @@ date: '2025-03-06'
 excerpt: Een aanvliegroute en beschermd vogel gebied gaan vast goed samen.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/afbeelding_2025-03-06_224258977.png
   altText: Post thumbnail image
   caption: Caption of the image
   elementId: ''
