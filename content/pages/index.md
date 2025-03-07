@@ -43,8 +43,8 @@ sections:
     type: HeroSection
     actions: []
   - type: MediaGallerySection
-    title: Gallery
-    subtitle: This is the subtitle
+    title: ''
+    subtitle: ''
     images:
       - type: ImageBlock
         url: /images/Afbeelding van WhatsApp op 2025-02-28 om 20.46.42_f3a881a2.jpg
