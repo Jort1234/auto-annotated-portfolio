@@ -1,6 +1,6 @@
 ---
 type: PostFeedLayout
-title: Collumns
+title: Columns
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
