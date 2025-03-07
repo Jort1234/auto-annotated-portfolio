@@ -44,7 +44,7 @@ sections:
     actions: []
   - type: MediaGallerySection
     title: ''
-    subtitle: This is the subtitle
+    subtitle: This is he subtitle
     images:
       - type: ImageBlock
         url: /images/Afbeelding van WhatsApp op 2025-02-28 om 20.46.42_f3a881a2.jpg
