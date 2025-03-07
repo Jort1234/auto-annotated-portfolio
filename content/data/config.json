@@ -11,7 +11,7 @@
             {
                 "type": "Link",
                 "label": "Over mij",
-                "url": "/overmij"
+                "url": "/info"
             },
             {
                 "type": "Link",
@@ -21,7 +21,7 @@
             {
                 "type": "Link",
                 "label": "Columns",
-                "url": "/columns"
+                "url": "/blog"
             }
         ],
         "socialLinks": [],
@@ -36,20 +36,20 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
+                "label": "Over mij",
                 "url": "/info",
                 "altText": ""
             },
             {
                 "type": "Link",
                 "label": "Contact",
-                "url": "mailto:thisismyemail.@myemail.me",
+                "url": "mailto:mail@jortvandam.com",
                 "altText": ""
             },
             {
                 "type": "Link",
                 "label": "columns",
-                "url": "/columns",
+                "url": "/blog",
                 "altText": ""
             }
         ],
@@ -58,12 +58,12 @@
             "title": "Contact details",
             "phoneNumber": "",
             "phoneAltText": "",
-            "email": "mail@jortvandam.com",
+            "email": "jort@vnav.nl",
             "emailAltText": "jort@vnav.nl",
             "address": "",
             "addressAltText": ""
         },
-        "copyrightText": "",
+        "copyrightText": "2025 - Jort van Dam\n\n",
         "styles": {
             "self": {
                 "width": "narrow",
