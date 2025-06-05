@@ -2,9 +2,7 @@
 type: PostLayout
 title: Dat Schoof Niet Op
 date: '2025-06-04'
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerpt: 'Het kabinet is gevallen, eindelijk.'
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
