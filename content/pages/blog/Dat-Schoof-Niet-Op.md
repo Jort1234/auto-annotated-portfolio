@@ -13,7 +13,7 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/afbeelding_2025-06-05_180158333.png
   altText: Post image
   caption: Caption of the image
   elementId: ''
