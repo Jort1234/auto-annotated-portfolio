@@ -100,9 +100,9 @@ sections:
         label: See all posts
         url: /blog
     posts:
+      - content/pages/blog/Dat-Schoof-Niet-Op.md
       - content/pages/blog/130.md
       - content/pages/blog/Vliegtuigongeluk-in-Zuid-Korea.md
-      - content/pages/blog/Dat-Schoof-Niet-Op.md
     showDate: true
     showExcerpt: true
     showReadMoreLink: true
