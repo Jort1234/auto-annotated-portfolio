@@ -57,9 +57,7 @@ sections:
         caption: Licht en Geluid
         elementId: ''
       - type: ImageBlock
-        url: >-
-          /images/Afbeelding van WhatsApp op 2025-02-28 om 20.46.42_08be753e (1)
-          (1).jpg
+        url: /images/vliegtuig.jpg
         altText: Licht en Geluid
         caption: Het ophangen van lampen
         elementId: ''
